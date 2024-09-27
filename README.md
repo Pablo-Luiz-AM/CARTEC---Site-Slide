@@ -1,0 +1,3 @@
+CARTEC é uma plataforma online especializada em serviços de manutenção automotiva, oferecendo soluções rápidas e confiáveis para quem deseja cuidar do seu veículo. Através do site, os usuários podem agendar revisões, consertos e serviços preventivos de maneira simples, além de encontrar dicas valiosas para manter o carro em perfeito estado.
+
+Com uma rede de oficinas e mecânicos parceiros, CARTEC conecta motoristas a profissionais qualificados, garantindo que cada serviço seja realizado com os mais altos padrões de qualidade. A plataforma permite que os clientes pesquisem e comparem preços, verifiquem avaliações de outros usuários e escolham a oficina mais conveniente, seja pela proximidade ou especialização.
